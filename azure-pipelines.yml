@@ -5,7 +5,7 @@ pool: myAgentPool
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: 'Udacity Devops Prj3'
+  azureServiceConnectionId: '0ee6d06f-69ab-4b3b-9f35-003e1b6eb227'
   
   # Web app name
   webAppName: 'web-app-hoangcv1'
